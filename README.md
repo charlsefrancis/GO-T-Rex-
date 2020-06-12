@@ -1,2 +1,2 @@
-# GO-T-Rex-
+# T-Rex-rush
 arcade game
